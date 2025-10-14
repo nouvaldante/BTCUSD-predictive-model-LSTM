@@ -13,10 +13,11 @@ The dataset used in this project is Bitcoin Historical Data for the period of Fe
 # Tools Needed
 
 1. **Python** : Main programming Language
-2. **Pandas & Numpy** : For data handling and analysis
-3. **Matplotlib** : Data visualization tool
-4. **Tensorflow** : To implement LSTM
-5. **MinMaxScaler** : To normalize data for LSTM input
+2. **Jupyter Notebook** : To run program
+3. **Pandas & Numpy** : For data handling and analysis
+4. **Matplotlib** : Data visualization tool
+5. **Tensorflow** : To implement LSTM
+6. **MinMaxScaler** : To normalize data for LSTM input
 
 # Results
 1. Evaluation of the predictive model's accuracy using evaluation metrics (RMSE, MAE, and MAPE)
