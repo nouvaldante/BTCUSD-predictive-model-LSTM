@@ -1,7 +1,7 @@
 # BTCUSD-predictive-model-LSTM
 This project is part of my final assignment as Data Science student. This project focuses on building predictive model for BTC/USD using Long Short-Term Memory with additional technical indicators such as _Bollinger Bands_ and _Moving Average Convergence Divergence_ (MACD) as trading signal to improve model accuracy.
 # Project Description
-Bitcoin (BTC) is a digital asset known for its high price volatility. Predicting the price movements of Bitcoin is an interesting challenges especially with its price driven by many factors, such as news sentiment, trading volume, and other technical indicators.
+Bitcoin (BTC) is a digital asset known for its high price volatility. Predicting the price movements of Bitcoin is an interesting challenge especially with its price driven by many factors, such as news sentiment, trading volume, and other technical indicators.
 
 The main objectives of this project are:
 1. Predicting BTC/USD price using Long Short-Term Memory
